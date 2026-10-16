@@ -1,0 +1,6 @@
+@EF_ExplicitTransaction_HostAddress = http://localhost:5098
+
+GET {{EF_ExplicitTransaction_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
